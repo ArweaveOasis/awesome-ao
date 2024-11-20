@@ -1,10 +1,10 @@
 <div align="center">
   <img src="./Dev learning.png" style="margin: 0 auto 40px;" />
   <!-- <h1>Dapp Learning</h1> -->
-  <h4 align="center">
-    Definitive Guide for Decentralized-app(Dapp) Development on Blockchain
-  </h4>
-  <p>Step-by-step Dapp practice through classical projects.</p>
+  <h3 align="center">
+    Definitive Guide for Developers on Arweave and AO
+  </h3>
+  <p>All-in-One page to decrease developer barrier.</p>
   <br />
   <p>
     <a href="https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/docs/imgs/wechat-group-helper.png"><img alt="Wechat group helper" src="https://img.shields.io/static/v1?&label=&logo=wechat&message=wechat group&color=brightgreen&logoColor=white"></a>
