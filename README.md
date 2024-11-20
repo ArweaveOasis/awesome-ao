@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./Dev learning.png" style="margin: 0 auto 40px;" />
-  <!-- <h1>Dapp Learning</h1> -->
+  <!-- <h1>Dev Learning</h1> -->
   <h3 align="center">
     Definitive Guide for Developers on Arweave and AO
   </h3>
