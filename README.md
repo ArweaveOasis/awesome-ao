@@ -10,10 +10,11 @@
     <a href="https://x.com/ArweaveEco"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveEco?label=ArweaveEco%20Follow"></a>
     <a href="https://x.com/aoTheComputer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aoTheComputer?label=AO%20Follow"></a>
     <a href="https://x.com/ArweaveOasis"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveOasis?label=ArweaveOasis%20Follow"></a>
-    
   </p>
 </div>
 
+
+[中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English
 
 ## README
 
