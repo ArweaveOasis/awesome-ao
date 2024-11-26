@@ -20,5 +20,19 @@
 
 Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. This platform provides the tools, resources, and knowledge to help you build, innovate, and succeed—whether you're crafting dApps, exploring data permanence, or leveraging Actor-Oriented design.
 
-Find technical docs, project resources, and guides—all in one place. This is your gateway to Arweave and AO. Dive in and start building the future of Web3!
+Find technical docs, project resources, and guides—all in one place. This is your gateway to Arweave and AO. Dive in and start building the future of Web3!   
 
+Dive in! The rabbit hole is deep, and the possibilities are endless.
+
+
+## Overview
+[Arweave](https://arweave.org/) - Permanent storage network. The Arweave network is like Bitcoin, but for data: A permanent and decentralized web inside an open ledger.
+
+Permanent storage has many applications: from the preservation of humanity's most important data, to the hosting of truly decentralized and provably neutral web apps.
+
+
+[AO](https://ao.arweave.dev/) - The ao computer is a world where countless parallel processes interact within a single, cohesive computing environment, seamlessly interlinked through a native message-passing layer. It is a burgeoning ecosystem of decentralized programs, akin to the World Wide Web, where each process, like a website, operates independently yet is intricately woven into a unified experience.  
+
+## Development Resources
+### Arweave core resources
+- [✨ Arweave JS](https://github.com/ArweaveTeam/arweave-js): Official SDK for interacting with Arweave
