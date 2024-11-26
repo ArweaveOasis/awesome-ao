@@ -93,11 +93,15 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
 
 ### Financial
 
-- Token contract
+- [Token contract](https://github.com/permaweb/aos/blob/main/blueprints/token.lua)
     
     Standard contract for tokens on AO
     
-- FusionFi SDK
+- [FusionFi SDK (Demo)](https://github.com/permadao/ffp-demo)
+
+  FusionFi is a unified financial protocol on permaweb(ao)
+
+
 
 ### Network inspection tools
 
@@ -108,6 +112,10 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
 - [ViewBlock](https://viewblock.io/)
     
     Arweave block explorer
+
+- [DataOS](https://stats.dataos.so/arweave?)
+
+  A protocol leveraging it for computing power and Arweave for data storage
     
 
 ### Gaming 
@@ -122,23 +130,35 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
     
     Plugins and configurations for AO development in VS Code
     
-- BetterIDEa
+- [BetterIDEa](https://ide.betteridea.dev/)
     
     Web-based Code editor w##ith native AO integrations
     
-- Protocol.Land
+- [Protocol.Land](https://github.com/labscommunity/protocol-land)
     
     Git hosting and Github mirroring on Arweave
     
 
 ### Builder communities
 
-- Weavers
-- ao Builders
+- [Arweave Oasis](https://arweaveoasis.com)
+  A community for Asian devs
+
+- [Weavers](https://www.weaversofficial.com/)
+
+  A community of devs + creatives which focus on hackathone 
+
+- [Arweave Hub](https://arweavehub.com/)
+
+  The place to find events happening within the Arweave ecosystem
+
+- [ao Builders](https://twitter.com/ao_builders)
+
+  Community by Warp.cc
 
 ### Oracles/Bridges
 
-- 0rbit
+- [0rbit](https://docs.0rbit.co/)
     
     Oracle for retrieving Web2 data into AO
     
@@ -150,6 +170,8 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
     Standard module for developing on AO
     
 - [ao module loader](https://github.com/permaweb/ao/blob/main/loader/README.md)
+
+  Package for running an ao contracts
 
 ### Infrastructure 
 
@@ -163,19 +185,29 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
 
 ### Protocols
 
-- ArFS
-- ArNS
+- [ArFS](https://github.com/ardriveapp/ardrive-web/blob/dev/docs/ArweaveFS.md)
+
+  ArweaveFS is a data model designed to emulate file systems on Arweave.
+
+
+- [ArNS](https://docs.ar.io/arns/#overview)
+
+  ArNS is a censorship-resistant naming system stored on Arweave
 
 ### Arweave Protocols
 
-- [Arweave Standard - ANS](https://github.com/ArweaveTeam/arweave-standards/tree/master/ans)
+- [Arweave Network Standard - ANS](https://github.com/ArweaveTeam/arweave-standards/tree/master/ans)
+
+  Standards for anything that is built on top the Arweave Network.
+
+
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave)
     
     Defunct contract standard, the predecessor to AO
 
 ## Products
 ### Wallet
-  - ArConnect
+  - [ArConnect](https://docs.arconnect.io/)
       
       Chrome extension and native mobile Arweave & AO wallet
       
@@ -188,36 +220,33 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
       Web based Arweave wallet
         
 ### Financial
-  - Botega
+  - [Botega](https://botega.arweave.dev/#/swap)
       
       Agent-powered token exchange platform
       
-  - Dexi
-      
-      Token discovery and analysis platform
       
   - [CoinMaker](https://coin.ar.io/)
       
       AO Token Launchpad
       
-  - Permaswap
+  - [Permaswap](https://github.com/permadao/permaswap)
       
       Decentralised exchange for Arweave and AO and Ethereum bridge
       
       - Uses: FusionFi
-  - AOX
+  - [AOX](https://aox.xyz/#/)
       
       Bridge for AR tokens to the AO network
         
 ### Data Storage
-  - ArDrive
+  - [ArDrive](https://ardrive.io/)
       
       Web and mobile-native interface for Arweave as a Filesystem
       
       - Uses: ArFS
 
 ### Gaming
-  - Llama land
+  - [Llama land](https://llamaland.g8way.io/#/)
       
       AI powered metaverse themed to Llamas
       
