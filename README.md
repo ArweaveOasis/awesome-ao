@@ -142,6 +142,7 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
 ### Builder communities
 
 - [Arweave Oasis](https://arweaveoasis.com)
+
   A community for Asian devs
 
 - [Weavers](https://www.weaversofficial.com/)
