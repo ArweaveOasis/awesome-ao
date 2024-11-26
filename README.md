@@ -28,10 +28,8 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
 ## Overview
 [Arweave](https://arweave.org/) - Permanent storage network. The Arweave network is like Bitcoin, but for data: A permanent and decentralized web inside an open ledger.
 
-Permanent storage has many applications: from the preservation of humanity's most important data, to the hosting of truly decentralized and provably neutral web apps.
 
-
-[AO](https://ao.arweave.dev/) - The ao computer is a world where countless parallel processes interact within a single, cohesive computing environment, seamlessly interlinked through a native message-passing layer. It is a burgeoning ecosystem of decentralized programs, akin to the World Wide Web, where each process, like a website, operates independently yet is intricately woven into a unified experience.  
+[AO](https://ao.arweave.dev/) - The AO computer is a decentralized ecosystem of parallel processes seamlessly interconnected through a native message-passing layer, creating a unified computing environment akin to the World Wide Web.
 
 ## Development Resources
 ### Arweave core resources
@@ -176,58 +174,58 @@ Permanent storage has many applications: from the preservation of humanity's mos
     Defunct contract standard, the predecessor to AO
 
 ## Products
-- ### Wallet
-    - ArConnect
+### Wallet
+  - ArConnect
+      
+      Chrome extension and native mobile Arweave & AO wallet
+      
+  - [AOWebWallet](https://aoww.net/)
+      
+      Web based AO wallet and AO contract interface
+      
+  - [Arweave.app](https://arweave.app/)
+      
+      Web based Arweave wallet
         
-        Chrome extension and native mobile Arweave & AO wallet
+### Financial
+  - Botega
+      
+      Agent-powered token exchange platform
+      
+  - Dexi
+      
+      Token discovery and analysis platform
+      
+  - [CoinMaker](https://coin.ar.io/)
+      
+      AO Token Launchpad
+      
+  - Permaswap
+      
+      Decentralised exchange for Arweave and AO and Ethereum bridge
+      
+      - Uses: FusionFi
+  - AOX
+      
+      Bridge for AR tokens to the AO network
         
-    - [AOWebWallet](https://aoww.net/)
-        
-        Web based AO wallet and AO contract interface
-        
-    - [Arweave.app](https://arweave.app/)
-        
-        Web based Arweave wallet
-        
-- ### Financial
-    - Botega
-        
-        Agent-powered token exchange platform
-        
-    - Dexi
-        
-        Token discovery and analysis platform
-        
-    - [CoinMaker](https://coin.ar.io/)
-        
-        AO Token Launchpad
-        
-    - Permaswap
-        
-        Decentralised exchange for Arweave and AO and Ethereum bridge
-        
-        - Uses: FusionFi
-    - AOX
-        
-        Bridge for AR tokens to the AO network
-        
-- ### Data Storage
-    - ArDrive
-        
-        Web and mobile-native interface for Arweave as a Filesystem
-        
-        - Uses: ArFS
+### Data Storage
+  - ArDrive
+      
+      Web and mobile-native interface for Arweave as a Filesystem
+      
+      - Uses: ArFS
 
-- ### Gaming
-    - Llama land
-        
-        AI powered metaverse themed to Llamas
-        
-        - Uses: Reality Protocol
-    - Permadumdum
-        
-        Pet game using the Dumdum mascot
-        
-    - [Hangout](https://hangout.aogames.org/)
-        
-        AI powered life simulator
+### Gaming
+  - Llama land
+      
+      AI powered metaverse themed to Llamas
+      
+      - Uses: Reality Protocol
+  - Permadumdum
+      
+      Pet game using the Dumdum mascot
+      
+  - [Hangout](https://hangout.aogames.org/)
+      
+      AI powered life simulator
