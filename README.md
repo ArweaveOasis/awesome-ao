@@ -136,7 +136,7 @@ We will classify development technical documentation resources in the following 
   - [Storing Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/3)
   - [Building a Static Website on Arweave](https://academy.developerdao.com/tracks/arweave-101/4)
   - [Building a App on Arweave](https://academy.developerdao.com/tracks/arweave-101/5)
-
+- [Connecting to the Permaweb](https://dev.to/fllstck/connecting-to-the-permaweb-ek5)
 - [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
 
 ## 📱 Products
@@ -149,7 +149,6 @@ We will classify development technical documentation resources in the following 
         
 ### Financial
 - [Botega](https://botega.arweave.dev/#/swap) - Agent-powered token exchange platform
-    
     
 - [CoinMaker](https://coin.ar.io/) - AO Token Launchpad
     
