@@ -1,9 +1,9 @@
 <div align="center">
   <img src="./Dev learning.png" style="margin: 0 auto 40px;" />
   <!-- <h1>Dev Learning</h1> -->
-  <h3 align="center">
-    Definitive Guide for Developers on Arweave and AO
-  </h3>
+  <h2 align="center">
+    Guide for Developers on Arweave and AO
+  </h2>
   <p>All-in-One page to decrease developer barrier.</p>
   <br />
   <p>
@@ -14,15 +14,13 @@
 </div>
 
 
-[中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English
+<!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
 ## README
 
-Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. This platform provides the tools, resources, and knowledge to help you build, innovate, and succeed—whether you're crafting dApps, exploring data permanence, or leveraging Actor-Oriented design.
+Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. This platform provides the tools, resources, and knowledge to help you build dApps, exploring data permanence, or leveraging Actor-Oriented design.
 
-Find technical docs, project resources, and guides—all in one place. This is your gateway to Arweave and AO. Dive in and start building the future of Web3!   
-
-Dive in! The rabbit hole is deep, and the possibilities are endless.
+This is your gateway to Arweave and AO. Dive in and start building the future of Web3!   
 
 
 ## Overview
@@ -126,7 +124,7 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
 
 ### Coding tools
 
-- [VS Code AO] Integrations <cookbook link?>
+- [VS Code AO] Integrations
     
     Plugins and configurations for AO development in VS Code
     
@@ -142,6 +140,7 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
 ### Builder communities
 
 - [Arweave Oasis](https://arweaveoasis.com)
+
   A community for Asian devs
 
 - [Weavers](https://www.weaversofficial.com/)
@@ -251,9 +250,13 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
       AI powered metaverse themed to Llamas
       
       - Uses: Reality Protocol
-  - Permadumdum
+  - [Permadumdum](https://x.com/permadumdum)
       
       Pet game using the Dumdum mascot
+    
+  - [Permaverse](https://dumdum.arweave.dev/)
+
+    Full web3 metaverse, gaming hub and launchpad
       
   - [Hangout](https://hangout.aogames.org/)
       
