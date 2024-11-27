@@ -64,7 +64,7 @@ We will classify development technical documentation resources in the following 
 
 - [Token contract](https://github.com/permaweb/aos/blob/main/blueprints/token.lua) - Standard contract for tokens on AO
     
-- [FusionFi SDK (Demo)](https://github.com/permadao/ffp-demo) - FusionFi is a unified financial protocol on permaweb(ao)
+- [FusionFi](https://ffp.gitbook.io/fusionfi) - FusionFi is a unified financial protocol on permaweb(ao)
 
 ### Network inspection tools
 
@@ -137,7 +137,7 @@ We will classify development technical documentation resources in the following 
   - [Building a Static Website on Arweave](https://academy.developerdao.com/tracks/arweave-101/4)
   - [Building a App on Arweave](https://academy.developerdao.com/tracks/arweave-101/5)
 
-- 
+- [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
 
 ## 📱 Products
 ### Wallet
@@ -154,7 +154,7 @@ We will classify development technical documentation resources in the following 
 - [CoinMaker](https://coin.ar.io/) - AO Token Launchpad
     
 - [Permaswap](https://github.com/permadao/permaswap) - Decentralised exchange for Arweave and AO and Ethereum bridge
-    - Uses: FusionFi SDK
+    - Uses: [FusionFi](https://ffp.gitbook.io/fusionfi)
 
 - [AOX](https://aox.xyz/#/) - Bridge for AR tokens to the AO network
         
