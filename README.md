@@ -87,19 +87,6 @@ We will classify development technical documentation resources in the following 
     
 - [Protocol.Land](https://github.com/labscommunity/protocol-land) - Git hosting and Github mirroring on Arweave
     
-
-### Builder communities
-
-- [Weavers](https://www.weaversofficial.com/) - A community of devs + creatives which focus on hackathone 
-
-- [Arweave Hub](https://arweavehub.com/) - The place to find events happening within the Arweave ecosystem
-
-- [Arweave Oasis](https://arweaveoasis.com) - A community for Asian devs
-
-- [PermaDAO](https://permadao.com/permadao/PermaDAO-76e627a9044548498d02b8fe4e962720) - A collaborative DAO within the Arweave ecosystem
-
-- [ao Builders](https://twitter.com/ao_builders) - Community by Warp.cc
-
 ### Oracles/Bridges
 
 - [0rbit](https://docs.0rbit.co/) - Oracle for retrieving Web2 data into AO
@@ -129,6 +116,19 @@ We will classify development technical documentation resources in the following 
 
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - Defunct contract standard, the predecessor to AO
 
+### Builder communities
+
+- [Weavers](https://www.weaversofficial.com/) - A community of devs + creatives which focus on hackathone 
+
+- [Arweave Hub](https://arweavehub.com/) - The place to find events happening within the Arweave ecosystem
+
+- [Arweave Oasis](https://arweaveoasis.com) - A community for Asian devs
+
+- [PermaDAO](https://permadao.com/permadao/PermaDAO-76e627a9044548498d02b8fe4e962720) - A collaborative DAO within the Arweave ecosystem
+
+- [ao Builders](https://twitter.com/ao_builders) - Community by Warp.cc
+
+
 ## 📙 Tutoiral 
 - Arweave 101 (Produced by [Kay](https://x.com/K4y1s))
   - [Intro to Arweave](https://academy.developerdao.com/tracks/arweave-101/1)
@@ -139,7 +139,7 @@ We will classify development technical documentation resources in the following 
 - [Connecting to the Permaweb](https://dev.to/fllstck/connecting-to-the-permaweb-ek5)
 - [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
 
-## 📱 Products
+## 📱 Products (The usecase you can follow)
 ### Wallet
 - [ArConnect](https://docs.arconnect.io/) - Chrome extension and native mobile Arweave & AO wallet
 
