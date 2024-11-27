@@ -1,9 +1,9 @@
 <div align="center">
   <img src="./Dev learning.png" style="margin: 0 auto 40px;" />
   <!-- <h1>Dev Learning</h1> -->
-  <h3 align="center">
-    Definitive Guide for Developers on Arweave and AO
-  </h3>
+  <h2 align="center">
+    Guide for Developers on Arweave and AO
+  </h2>
   <p>All-in-One page to decrease developer barrier.</p>
   <br />
   <p>
@@ -18,11 +18,9 @@
 
 ## README
 
-Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. This platform provides the tools, resources, and knowledge to help you build, innovate, and succeed—whether you're crafting dApps, exploring data permanence, or leveraging Actor-Oriented design.
+Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. This platform provides the tools, resources, and knowledge to help you build dApps, exploring data permanence, or leveraging Actor-Oriented design.
 
-Find technical docs, project resources, and guides—all in one place. This is your gateway to Arweave and AO. Dive in and start building the future of Web3!   
-
-Dive in! The rabbit hole is deep, and the possibilities are endless.
+This is your gateway to Arweave and AO. Dive in and start building the future of Web3!   
 
 
 ## Overview
