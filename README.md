@@ -26,7 +26,7 @@ Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. Th
 
 We will classify development technical documentation resources in the following index by treating Arweave and AO as a unified infrastructure.
 
-## Development Resources
+## 🧑🏻‍💻 Development Resources
 ### Arweave core resources
 - [✨ Arweave JS](https://github.com/ArweaveTeam/arweave-js) - Official SDK for interacting with Arweave
 
@@ -129,7 +129,7 @@ We will classify development technical documentation resources in the following 
 
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - Defunct contract standard, the predecessor to AO
 
-## Products
+## 🛠️ Products
 ### Wallet
 - [ArConnect](https://docs.arconnect.io/) - Chrome extension and native mobile Arweave & AO wallet
 
