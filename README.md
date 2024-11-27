@@ -126,7 +126,7 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
 
 ### Coding tools
 
-- [VS Code AO] Integrations <cookbook link?>
+- [VS Code AO] Integrations
     
     Plugins and configurations for AO development in VS Code
     
