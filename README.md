@@ -81,7 +81,7 @@ We will classify development technical documentation resources in the following 
 
 ### Coding tools
 
-- [VS Code AO] Integrations - Plugins and configurations for AO development in VS Code
+- [VS Code AO](https://cookbook_ao.g8way.io/references/editor-setup.html) - Plugins and configurations for AO development in VS Code
     
 - [BetterIDEa](https://ide.betteridea.dev/) - Web-based Code editor w##ith native AO integrations
     
@@ -129,7 +129,17 @@ We will classify development technical documentation resources in the following 
 
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - Defunct contract standard, the predecessor to AO
 
-## 🛠️ Products
+## 📙 Tutoiral 
+- Arweave 101 (Produced by [Kay](https://x.com/K4y1s))
+  - [Intro to Arweave](https://academy.developerdao.com/tracks/arweave-101/1)
+  - [Accessing Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/2)
+  - [Storing Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/3)
+  - [Building a Static Website on Arweave](https://academy.developerdao.com/tracks/arweave-101/4)
+  - [Building a App on Arweave](https://academy.developerdao.com/tracks/arweave-101/5)
+
+- 
+
+## 📱 Products
 ### Wallet
 - [ArConnect](https://docs.arconnect.io/) - Chrome extension and native mobile Arweave & AO wallet
 
