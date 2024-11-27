@@ -16,18 +16,15 @@
 
 <!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
-## README
-
-Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. This platform provides the tools, resources, and knowledge to help you build dApps, exploring data permanence, or leveraging Actor-Oriented design.
-
-This is your gateway to Arweave and AO. Dive in and start building the future of Web3!   
-
-
 ## Overview
-[Arweave](https://arweave.org/) - Permanent storage network. The Arweave network is like Bitcoin, but for data: A permanent and decentralized web inside an open ledger.
 
+Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. This platform provides the tools, resources, and knowledge to help you build dApps, exploring data permanence, or leveraging Actor-Oriented design. It can be your gateway to Arweave and AO. Dive in and start building!   
 
-[AO](https://ao.arweave.dev/) - The AO computer is a decentralized ecosystem of parallel processes seamlessly interconnected through a native message-passing layer, creating a unified computing environment akin to the World Wide Web.
+[Arweave](https://arweave.org/) - A decentralized permanent storage network. 
+
+[AO](https://ao.arweave.dev/) - A decentralized computing platform enabling hyper-parallel processes to interact with Arweave as the data layer.
+
+We will classify development technical documentation resources in the following index by treating Arweave and AO as a unified infrastructure.
 
 ## Development Resources
 ### Arweave core resources
@@ -99,8 +96,6 @@ This is your gateway to Arweave and AO. Dive in and start building the future of
 
   FusionFi is a unified financial protocol on permaweb(ao)
 
-
-
 ### Network inspection tools
 
 - [AO Link](https://www.ao.link/)
@@ -139,10 +134,6 @@ This is your gateway to Arweave and AO. Dive in and start building the future of
 
 ### Builder communities
 
-- [Arweave Oasis](https://arweaveoasis.com)
-
-  A community for Asian devs
-
 - [Weavers](https://www.weaversofficial.com/)
 
   A community of devs + creatives which focus on hackathone 
@@ -150,6 +141,14 @@ This is your gateway to Arweave and AO. Dive in and start building the future of
 - [Arweave Hub](https://arweavehub.com/)
 
   The place to find events happening within the Arweave ecosystem
+
+- [Arweave Oasis](https://arweaveoasis.com)
+
+  A community for Asian devs
+
+- [PermaDAO](https://permadao.com/permadao/PermaDAO-76e627a9044548498d02b8fe4e962720)
+
+  A collaborative DAO within the Arweave ecosystem
 
 - [ao Builders](https://twitter.com/ao_builders)
 
@@ -232,7 +231,7 @@ This is your gateway to Arweave and AO. Dive in and start building the future of
       
       Decentralised exchange for Arweave and AO and Ethereum bridge
       
-      - Uses: FusionFi
+      - Uses: FusionFi SDK
   - [AOX](https://aox.xyz/#/)
       
       Bridge for AR tokens to the AO network
