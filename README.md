@@ -64,7 +64,7 @@ We will classify development technical documentation resources in the following 
 
 - [Token contract](https://github.com/permaweb/aos/blob/main/blueprints/token.lua) - Standard contract for tokens on AO
     
-- [FusionFi SDK (Demo)](https://github.com/permadao/ffp-demo) - FusionFi is a unified financial protocol on permaweb(ao)
+- [FusionFi](https://ffp.gitbook.io/fusionfi) - FusionFi is a unified financial protocol on permaweb(ao)
 
 ### Network inspection tools
 
@@ -81,7 +81,7 @@ We will classify development technical documentation resources in the following 
 
 ### Coding tools
 
-- [VS Code AO] Integrations - Plugins and configurations for AO development in VS Code
+- [VS Code AO](https://cookbook_ao.g8way.io/references/editor-setup.html) - Plugins and configurations for AO development in VS Code
     
 - [BetterIDEa](https://ide.betteridea.dev/) - Web-based Code editor w##ith native AO integrations
     
@@ -129,7 +129,17 @@ We will classify development technical documentation resources in the following 
 
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - Defunct contract standard, the predecessor to AO
 
-## 🛠️ Products
+## 📙 Tutoiral 
+- Arweave 101 (Produced by [Kay](https://x.com/K4y1s))
+  - [Intro to Arweave](https://academy.developerdao.com/tracks/arweave-101/1)
+  - [Accessing Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/2)
+  - [Storing Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/3)
+  - [Building a Static Website on Arweave](https://academy.developerdao.com/tracks/arweave-101/4)
+  - [Building a App on Arweave](https://academy.developerdao.com/tracks/arweave-101/5)
+
+- [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
+
+## 📱 Products
 ### Wallet
 - [ArConnect](https://docs.arconnect.io/) - Chrome extension and native mobile Arweave & AO wallet
 
@@ -144,7 +154,7 @@ We will classify development technical documentation resources in the following 
 - [CoinMaker](https://coin.ar.io/) - AO Token Launchpad
     
 - [Permaswap](https://github.com/permadao/permaswap) - Decentralised exchange for Arweave and AO and Ethereum bridge
-    - Uses: FusionFi SDK
+    - Uses: [FusionFi](https://ffp.gitbook.io/fusionfi)
 
 - [AOX](https://aox.xyz/#/) - Bridge for AR tokens to the AO network
         
