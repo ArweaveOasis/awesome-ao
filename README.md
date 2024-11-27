@@ -14,7 +14,7 @@
 </div>
 
 
-[中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English
+<!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
 ## README
 
@@ -251,9 +251,13 @@ Dive in! The rabbit hole is deep, and the possibilities are endless.
       AI powered metaverse themed to Llamas
       
       - Uses: Reality Protocol
-  - Permadumdum
+  - [Permadumdum](https://x.com/permadumdum)
       
       Pet game using the Dumdum mascot
+    
+  - [Permaverse](https://dumdum.arweave.dev/)
+
+    Full web3 metaverse, gaming hub and launchpad
       
   - [Hangout](https://hangout.aogames.org/)
       
