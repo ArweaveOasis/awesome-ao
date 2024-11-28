@@ -33,6 +33,8 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 ### Arweave core resources
 - [✨ Arweave JS](https://github.com/ArweaveTeam/arweave-js) - Official SDK for interacting with Arweave
 
+- [🌟 Arweave Docs](https://docs.arweave.org/developers/arweave-node-server/http-api) - Provides resources for building, mining, and exploring data permanence in the Arweave ecosystem.
+
 ### AO core resources
 - [AO Cookbook](https://cookbook_ao.g8way.io/) - Getting started guide and tutorials for AO
     
