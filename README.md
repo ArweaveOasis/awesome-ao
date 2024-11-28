@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Dev learning.png" style="margin: 0 auto 40px;" />
+  <img src="Doc/Image/Dev learning.png" style="margin: 0 auto 40px;" />
   <!-- <h1>Dev Learning</h1> -->
   <h2 align="center">
     Guide for Developers on Arweave and AO
