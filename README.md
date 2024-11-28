@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Dev learning.png" style="margin: 0 auto 40px;" />
+  <img src="Doc/Image/Dev learning.png" style="margin: 0 auto 40px;" />
   <!-- <h1>Dev Learning</h1> -->
   <h2 align="center">
     Guide for Developers on Arweave and AO
@@ -49,6 +49,8 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 
 ### dApp Templates/Starter Kits
 - [create-ao-dapp](https://github.com/Autonomous-Finance/ao-starter-kit) - Starter kit for developing an AO-powered dApp
+
+- [teal-ao-starter](https://github.com/Autonomous-Finance/teal-ao-starter) - Tooling that allows application developers on AO to use Teal - Lua with strong typing.
 
 ### dApp deployment
 - [Permaweb deploy](https://github.com/permaweb/permaweb-deploy) - Command line script to upload a web frontend to Arweave with support for updating ArNS[1] domain name
