@@ -26,6 +26,9 @@ Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. Th
 
 We will classify development technical documentation resources in the following index by treating Arweave and AO as a unified infrastructure.
 
+Contributions welcome and wanted! Read the [contribution guidelines](https://github.com/gerrywang1117/Arweave-AO-Dev-Learning/blob/main/Rules.md) first.
+
+
 ## 🧑🏻‍💻 Development Resources
 ### Arweave core resources
 - [✨ Arweave JS](https://github.com/ArweaveTeam/arweave-js) - Official SDK for interacting with Arweave
