@@ -1,4 +1,4 @@
-## Contribution Guidelines for Arweave/AO Dev Learning Page
+# Contribution Guidelines for Arweave/AO Dev Learning Page
 
 To ensure the Arweave/AO developer documentation remains high-quality, comprehensive, and up-to-date, we welcome contributions from the community. Below are the rules and guidelines for contributing to this ecosystem:
 
