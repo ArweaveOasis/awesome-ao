@@ -50,6 +50,8 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 ### dApp Templates/Starter Kits
 - [create-ao-dapp](https://github.com/Autonomous-Finance/ao-starter-kit) - Starter kit for developing an AO-powered dApp
 
+- [teal-ao-starter](https://github.com/Autonomous-Finance/teal-ao-starter) - Tooling that allows application developers on AO to use Teal - Lua with strong typing.
+
 ### dApp deployment
 - [Permaweb deploy](https://github.com/permaweb/permaweb-deploy) - Command line script to upload a web frontend to Arweave with support for updating ArNS[1] domain name
     
