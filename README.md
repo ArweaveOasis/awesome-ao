@@ -50,6 +50,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 
 ### dApp deployment
 - [Permaweb deploy](https://github.com/permaweb/permaweb-deploy) - Command line script to upload a web frontend to Arweave with support for updating ArNS[1] domain name
+- [Arlink](https://arlink.ar-io.dev/) - Deploy application to the permaweb with visual graphical interface
 - [AOForm](https://github.com/Autonomous-Finance/aoform) - Automated deployment of AO contracts in a declarative style
 - [Ewigkeit](https://github.com/kay-is/ewigkeit) - Permaweb app deployment and management with ArNS and GUI
 
