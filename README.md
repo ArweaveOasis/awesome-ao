@@ -4,7 +4,7 @@
 # Awesome Arweave & AO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div>
   <p>
-    All-in-One page to decrease developer barrier.
+    All-in-One dev resources and tutorials.
   </p>
   <p>
     <a href="https://x.com/ArweaveEco"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveEco?label=ArweaveEco%20Follow"></a>
