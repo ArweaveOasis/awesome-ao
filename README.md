@@ -2,7 +2,7 @@
   <img src="Doc/Image/Dev learning.png" style="margin: 0 auto 40px;" />
   <!-- <h1>Dev Learning</h1> -->
   <h1 align="center">
-    Awesome Arweave and AO
+    awesome arweave and ao
   </h1>
   <p>All-in-One page to decrease developer barrier.</p>
   <br />
