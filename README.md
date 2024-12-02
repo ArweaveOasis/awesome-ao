@@ -111,6 +111,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 - [Arweave Oasis](https://arweaveoasis.com) - A community for Asian devs
 - [PermaDAO](https://permadao.com/permadao/PermaDAO-76e627a9044548498d02b8fe4e962720) - A collaborative DAO within the Arweave ecosystem
 - [ao Builders](https://twitter.com/ao_builders) - Community by Warp.cc
+- [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources
 
 
 ## 📙 Tutoiral
