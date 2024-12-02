@@ -1,20 +1,18 @@
-<div align="center">
-  <img src="Doc/Image/Dev learning.png" style="margin: 0 auto 40px;" />
-  <!-- <h1>Dev Learning</h1> -->
-  <h1 align="center">
-    awesome arweave and ao
-  </h1>
-  <p>All-in-One page to decrease developer barrier.</p>
-  <br />
+<!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
+
+
+# Awesome Arweave & AO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div>
+  <p>
+    All-in-One page to decrease developer barrier.
+  </p>
   <p>
     <a href="https://x.com/ArweaveEco"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveEco?label=ArweaveEco%20Follow"></a>
     <a href="https://x.com/aoTheComputer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aoTheComputer?label=AO%20Follow"></a>
     <a href="https://x.com/ArweaveOasis"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveOasis?label=ArweaveOasis%20Follow"></a>
   </p>
+  <img src="Doc/Image/Dev learning.png" style="margin: 0 auto 40px;" />
 </div>
-
-
-<!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
 ## Overview
 
