@@ -24,8 +24,6 @@ Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. Th
 
 We will classify development technical documentation resources in the following index by treating Arweave and AO as a unified infrastructure.
 
-Contributions welcome and wanted! Read the [contribution guidelines](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/Doc/Rules.md) first.
-
 
 ## 🧑🏻‍💻 Development Resources
 ### Arweave core resources
@@ -148,3 +146,10 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 - [Permadumdum](https://x.com/permadumdum) - Pet game using the Dumdum mascot
 - [Permaverse](https://dumdum.arweave.dev/) - Full web3 metaverse, gaming hub and launchpad
 - [Hangout](https://hangout.aogames.org/) - AI powered life simulator
+
+## Contributors
+Contributions welcome and wanted! Read the [contribution guidelines](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/Doc/Rules.md) first.
+Thanks to all the people who have contributed to this project!
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
