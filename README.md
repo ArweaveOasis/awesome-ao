@@ -74,7 +74,7 @@ We will classify development technical documentation resources in the following 
 ### Coding tools
 
 - [VS Code AO](https://cookbook_ao.g8way.io/references/editor-setup.html) - Plugins and configurations for AO development in VS Code
-- [BetterIDEa](https://ide.betteridea.dev/) - Web-based Code editor w##ith native AO integrations
+- [BetterIDEa](https://ide.betteridea.dev/) - Web-based Code editor with native AO integrations
 - [Protocol.Land](https://github.com/labscommunity/protocol-land) - Git hosting and Github mirroring on Arweave
     
 ### Oracles/Bridges
