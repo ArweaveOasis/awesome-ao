@@ -111,7 +111,7 @@ We will classify development technical documentation resources in the following 
 - [ao Builders](https://twitter.com/ao_builders) - Community by Warp.cc
 
 
-## 📙 Tutoiral
+## 📙 Tutorials
 - Arweave 101 (Produced by [Kay](https://x.com/K4y1s))
   - [Intro to Arweave](https://academy.developerdao.com/tracks/arweave-101/1)
   - [Accessing Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/2)
