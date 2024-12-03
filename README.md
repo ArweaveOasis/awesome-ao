@@ -148,3 +148,8 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 - [Permadumdum](https://x.com/permadumdum) - Pet game using the Dumdum mascot
 - [Permaverse](https://dumdum.arweave.dev/) - Full web3 metaverse, gaming hub and launchpad
 - [Hangout](https://hangout.aogames.org/) - AI powered life simulator
+
+## Contributors
+Thanks to all the people who have contributed to this project!
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
