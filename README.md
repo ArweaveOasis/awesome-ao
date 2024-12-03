@@ -42,13 +42,13 @@ We will classify development technical documentation resources in the following 
 
 ### dApp Templates/Starter Kits
 - [create-ao-dapp](https://github.com/Autonomous-Finance/ao-starter-kit) - Starter kit for developing an AO-powered dApp
-- [teal-ao-starter](https://github.com/Autonomous-Finance/teal-ao-starter) - Tooling that allows application developers on AO to use Teal - Lua with strong typing.
+- [teal-ao-starter](https://github.com/Autonomous-Finance/teal-ao-starter) - AO contract development with teal for strong typing.
 
 ### dApp deployment
 - [Permaweb deploy](https://github.com/permaweb/permaweb-deploy) - Command line script to upload a web frontend to Arweave with support for updating ArNS[1] domain name
-- [Arlink](https://arlink.ar-io.dev/) - Deploy application to the permaweb with visual graphical interface
+- [Arlink](https://arlink.ar-io.dev/) - DApp deployment with visual graphical interface
 - [AOForm](https://github.com/Autonomous-Finance/aoform) - Automated deployment of AO contracts in a declarative style
-- [Ewigkeit](https://github.com/kay-is/ewigkeit) - Permaweb app deployment and management with ArNS and GUI
+- [Ewigkeit](https://github.com/kay-is/ewigkeit) - DApp deployment and management with ArNS and GUI
 
 ### Database
 
@@ -74,7 +74,7 @@ We will classify development technical documentation resources in the following 
 ### Coding tools
 
 - [VS Code AO](https://cookbook_ao.g8way.io/references/editor-setup.html) - Plugins and configurations for AO development in VS Code
-- [BetterIDEa](https://ide.betteridea.dev/) - Web-based Code editor w##ith native AO integrations
+- [BetterIDEa](https://ide.betteridea.dev/) - Web-based Code editor with native AO integrations
 - [Protocol.Land](https://github.com/labscommunity/protocol-land) - Git hosting and Github mirroring on Arweave
     
 ### Oracles/Bridges
@@ -109,10 +109,9 @@ We will classify development technical documentation resources in the following 
 - [Arweave Oasis](https://arweaveoasis.com) - A community for Asian devs
 - [PermaDAO](https://permadao.com/permadao/PermaDAO-76e627a9044548498d02b8fe4e962720) - A collaborative DAO within the Arweave ecosystem
 - [ao Builders](https://twitter.com/ao_builders) - Community by Warp.cc
-- [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources
 
 
-## 📙 Tutorial
+## 📙 Tutorials
 - Arweave 101 (Produced by [Kay](https://x.com/K4y1s))
   - [Intro to Arweave](https://academy.developerdao.com/tracks/arweave-101/1)
   - [Accessing Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/2)
