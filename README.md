@@ -46,9 +46,9 @@ We will classify development technical documentation resources in the following 
 
 ### dApp deployment
 - [Permaweb deploy](https://github.com/permaweb/permaweb-deploy) - Command line script to upload a web frontend to Arweave with support for updating ArNS[1] domain name
-- [Arlink](https://arlink.ar-io.dev/) - Deploy application to the permaweb with visual graphical interface
+- [Arlink](https://arlink.ar-io.dev/) - DApp deployment with visual graphical interface
 - [AOForm](https://github.com/Autonomous-Finance/aoform) - Automated deployment of AO contracts in a declarative style
-- [Ewigkeit](https://github.com/kay-is/ewigkeit) - Permaweb app deployment and management with ArNS and GUI
+- [Ewigkeit](https://github.com/kay-is/ewigkeit) - DApp deployment and management with ArNS and GUI
 
 ### Database
 
