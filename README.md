@@ -112,7 +112,7 @@ We will classify development technical documentation resources in the following 
 - [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources
 
 
-## 📙 Tutoiral
+## 📙 Tutorial
 - Arweave 101 (Produced by [Kay](https://x.com/K4y1s))
   - [Intro to Arweave](https://academy.developerdao.com/tracks/arweave-101/1)
   - [Accessing Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/2)
