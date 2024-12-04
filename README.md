@@ -65,8 +65,8 @@ We will classify development technical documentation resources in the following 
 - [AO Link](https://www.ao.link/) - Live AO explorer and inspection tool
 - [ViewBlock](https://viewblock.io/) - Arweave block explorer
 - [DataOS](https://stats.dataos.so/arweave?) - A protocol leveraging it for computing power and Arweave for data storage
+- [Arweave Fees](https://ar-fees.arweave.dev/) - The calculator provides the approximate real-time cost to store data on Arweave
     
-
 ### Gaming 
 
 - [Reality Protocol](https://github.com/elliotsayes/Reality/blob/main/docs/AgentGuide.md#static-agents) - Toolkit for user created interconnected metaverse
