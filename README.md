@@ -54,7 +54,7 @@ We will classify development technical documentation resources in the following 
 
 ### Database
 
-- [AOS Sqlite module](https://github.com/PeterFarber/AO-Sqlite) - SQLite database embedded in AO contracts
+- [AOS Sqlite module](https://github.com/permaweb/aos-sqlite) - SQLite database embedded in AO contracts
 - [WeaveDB](https://weavedb.dev/) - Cross-chain database backed by Arweave
 
 ### Financial
