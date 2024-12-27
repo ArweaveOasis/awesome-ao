@@ -11,7 +11,7 @@
     <a href="https://x.com/aoTheComputer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aoTheComputer?label=AO%20Follow"></a>
     <a href="https://x.com/ArweaveOasis"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveOasis?label=ArweaveOasis%20Follow"></a>
   </p>
-  <img src="Doc/Image/Dev learning.png" style="margin: 0 auto 40px;" />
+  <img src="Doc/Image/Dev learning.jpg" style="margin: 0 auto 40px;" />
 </div>
 
 [![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/35c3e55a-711d-4b51-a972-b336a6b11814)
