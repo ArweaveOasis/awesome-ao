@@ -79,7 +79,8 @@ We will classify development technical documentation resources in the following 
 - [VS Code AO](https://cookbook_ao.g8way.io/references/editor-setup.html) - Plugins and configurations for AO development in VS Code
 - [BetterIDEa](https://ide.betteridea.dev/) - Web-based Code editor with native AO integrations
 - [Protocol.Land](https://github.com/labscommunity/protocol-land) - Git hosting and Github mirroring on Arweave
-    
+- [WAO](https://github.com/weavedb/wao) - In-memory AO testing framework
+
 ### Oracles/Bridges
 
 - [0rbit](https://docs.0rbit.co/) - Oracle for retrieving Web2 data into AO
