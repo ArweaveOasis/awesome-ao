@@ -45,11 +45,13 @@ We will classify development technical documentation resources in the following 
 ### dApp Templates/Starter Kits
 - [create-ao-dapp](https://github.com/Autonomous-Finance/ao-starter-kit) - Starter kit for developing an AO-powered dApp
 - [teal-ao-starter](https://github.com/Autonomous-Finance/teal-ao-starter) - AO contract development with teal for strong typing.
+- [create-ao-contract](https://github.com/pawanpaudel93/create-ao-contract) - CLI tool for scaffolding AO contracts with testing and deployment setup.
 
 ### dApp deployment
 - [Permaweb deploy](https://github.com/permaweb/permaweb-deploy) - Command line script to upload a web frontend to Arweave with support for updating ArNS[1] domain name
 - [Arlink](https://arlink.ar-io.dev/) - DApp deployment with visual graphical interface
 - [AOForm](https://github.com/Autonomous-Finance/aoform) - Automated deployment of AO contracts in a declarative style
+- [ao-deploy](https://github.com/pawanpaudel93/ao-deploy) - CLI tool and JavaScript library for deploying AO contracts
 - [Ewigkeit](https://github.com/kay-is/ewigkeit) - DApp deployment and management with ArNS and GUI
 - [DragonDeploy](https://dragondeploy.xyz/) - Upload website or app to the Permaweb
 
