@@ -24,6 +24,8 @@ Welcome to the all-in-one hub for developers in the Arweave and AO ecosystem. Th
 
 [AO](https://ao.arweave.dev/) - A decentralized computing platform enabling hyper-parallel processes to interact with Arweave as the data layer.
 
+[HyperBEAM](https://github.com/permaweb/HyperBEAM) - A client implementation of the AO-Core protocol, written in Erlang.
+
 We will classify development technical documentation resources in the following index by treating Arweave and AO as a unified infrastructure.
 
 
