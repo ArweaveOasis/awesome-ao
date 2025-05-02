@@ -73,6 +73,7 @@ We will classify development technical documentation resources in the following 
 - [ViewBlock](https://viewblock.io/) - Arweave block explorer
 - [DataOS](https://stats.dataos.so/arweave?) - A protocol leveraging it for computing power and Arweave for data storage
 - [Arweave Fees](https://ar-fees.arweave.dev/) - The calculator provides the approximate real-time cost to store data on Arweave
+- [SmartWeaver](https://smartweaver.land) - An Arweave and AO transaction explorer platform. Explore Arweave and AO, check transaction statuses across gateways, filter data, debug AO process state, and more.
     
 ### Gaming 
 
