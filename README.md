@@ -144,6 +144,9 @@ We will classify development technical documentation resources in the following 
     - Uses: [FusionFi](https://ffp.gitbook.io/fusionfi)
 - [AOX](https://aox.xyz/#/) - Bridge for AR tokens to the AO network
         
+### Identity
+- [Chitin](https://chitin.id) - On-chain soul identity for AI agents. Uses Arweave for immutable genesis records and versioned chronicles (growth records), with Soulbound Tokens and ERC-8004 agent passports on Base L2.
+
 ### Data Storage
 - [ArDrive](https://ardrive.io/) - Web and mobile-native interface for Arweave as a Filesystem
    - Uses: ArFS
