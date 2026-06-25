@@ -147,6 +147,7 @@ We will classify development technical documentation resources in the following 
 ### Data Storage
 - [ArDrive](https://ardrive.io/) - Web and mobile-native interface for Arweave as a Filesystem
    - Uses: ArFS
+- [Casa](https://casa-agents.fly.dev/) - Encryptable file storage for AI agents, permanent on Arweave by default (Swarm for large files), with an MCP server and HTTP API; stores are paid per call in USDC via x402 on Base and reads are free
 
 ### Gaming
 - [Llama land](https://llamaland.g8way.io/#/) - AI powered metaverse themed to Llamas
